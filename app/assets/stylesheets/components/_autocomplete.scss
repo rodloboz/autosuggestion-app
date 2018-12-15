@@ -1,0 +1,12 @@
+.autocomplete-suggestion {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  height: 25px;
+  margin: 5px 0;
+
+  span {
+    margin-left: 10px;
+  }
+}
